@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Idea" />
-        <activity android:name=".Reminders"></activity>
+        <activity android:name=".Reminders" />
+        <activity android:name=".Settings" />
+        <activity android:name=".Account"></activity>
     </application>
 
 </manifest>
